@@ -1,0 +1,42 @@
+
+    
+    .container-trip{
+       background-color:#000;
+        padding: 50px;
+         span{
+           color: #FFFAF0
+         }
+        .row{
+            justify-content:center;
+           align-items: center;
+           text-align: center;
+                .inner-trip{
+                    padding: 30px;
+                    height: 80%;
+                    h4{
+                        color:burlywood;
+                        padding-top: 10px;
+                    }
+                    img{
+                       width: 100%;
+                       border-radius: 10px;
+                       box-shadow: cornsilk 3px 3px; 
+                    }
+                }
+                .box-plane{
+                    padding: 10px;
+                   h6{
+                       font-weight: bolder;
+                       font-size: larger;
+                       color: burlywood;
+                   }
+                   .choose-your-plane{
+                        color:#5F9EA0;
+                   }
+                }
+
+            
+          
+          
+        }
+    }
